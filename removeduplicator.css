@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    width: 400px;
+    padding: 10px;
+    margin: 20px auto;
+    display: block;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #unique-elements {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  

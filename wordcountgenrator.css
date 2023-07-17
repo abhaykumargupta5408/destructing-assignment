@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  textarea {
+    width: 400px;
+    height: 200px;
+    margin: 20px auto;
+    display: block;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #word-counts {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
